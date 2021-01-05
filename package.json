@@ -27,7 +27,7 @@
     "@serenity-js/serenity-bdd": "next",
     "@types/cucumber": "^6.0.0",
     "@types/node": "^12.12.25",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chromedriver": "^79.0.0",
     "cucumber": "^6.0.5",
     "is-ci": "^2.0.0",
